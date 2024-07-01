@@ -6,6 +6,47 @@ body {
   margin: 0;
   height: 100vh;
 }
+
+/* Header */
+
+.navbar{
+  margin-top: 20px;
+  margin-left: 27px;
+}
+
+.features,
+.community,
+.faqs,
+.reviews,
+.about_us,
+.contact_us{
+  color: white;
+  margin-right: 52px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 12px;
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 25.6px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.moofli{
+  color: white;
+  margin-right: 52px;
+  display: inline-block;
+  line-height: 48.76px;
+  width: 131px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.community{
+  margin-right: 200px;
+}
+
+/* .why-moofli-container */
 .why-moofli-container{
   margin-top: 201px;
   padding: 10px;
@@ -36,3 +77,5 @@ body {
   font-size: 18px;
   padding: 5px;
 }
+
+/* reviews container */
