@@ -4,8 +4,9 @@ import Header from "./Header";
 import Reviews from "./Reviews";
 import Bookpen from "./Bookpen";
 import Star from "./Star";
-
+import JoinUs from "./JoinUs";
 import './App.css';
+
 function App() {
   return (
     <div className="App">
@@ -16,6 +17,7 @@ function App() {
         <WhyMoofli/>
         <Reviews />
       </div>     
+      <JoinUs />
     </div>
   );
 }
