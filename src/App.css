@@ -147,3 +147,23 @@ body {
   margin-top: -15px;
   margin-left: -120px;
 }
+
+/* stars */
+.star-1{
+  position: absolute;
+  z-index: 1;
+  left: 26%;
+  top: 30%;
+}
+.star-2{
+  position: absolute;
+  z-index: 1;
+  left: 49%;
+  top: 68%;
+}
+.star-3{
+  position: absolute;
+  left: 47%;
+  top: 15%;
+  z-index: 1;
+}
