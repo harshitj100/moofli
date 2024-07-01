@@ -1,10 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-
+import WhyMoofli from "./WhyMoofli";
 function App() {
   return (
     <div className="App">
-      
+      <WhyMoofli/>
     </div>
   );
 }

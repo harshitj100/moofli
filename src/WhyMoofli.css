@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+  background: linear-gradient(to bottom right , #29A8EF , #D22798);
+  margin: 0;
+  height: 100vh;
+}
+.why-moofli-container{
+  margin-top: 201px;
+  padding: 10px;
+  margin-left: 54px;
+}
+.why-moofli{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 22px;
+  margin-bottom: 20px;
+  line-height: 26.82px;
+}
+
+.index{
+  font-size: 48px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Lato', sans-serif;  display: inline-block;
+  margin-bottom: 40px;
+  margin-right: 20px;
+  vertical-align: top;
+}
+.text{
+  color: white;
+  font-family: 'Lato', sans-serif;  display: inline-block;
+  width: 200px;
+  font-size: 18px;
+  padding: 5px;
+}
