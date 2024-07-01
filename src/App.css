@@ -131,3 +131,19 @@ body {
   display: inline-block;
   margin: 5px;
 }
+
+.new-element {
+  padding: 20px;
+  margin-left: 500px;
+  position: absolute; /* If you want to position it absolutely */
+  top: -40px; /* Adjust as needed */
+  left: 10px; /* Adjust as needed */
+  z-index: 1; /* Make sure it appears on top */
+}
+
+.bookpen-images{
+  padding: 0px;
+  margin: 0px;
+  margin-top: -15px;
+  margin-left: -120px;
+}
