@@ -15,7 +15,7 @@ const Bookpen = () => {
       </div>
       <div className='bookpen-images'>
         <img src={bookpen}/>
-      </div>
+      </div>    
     </div>
   )
 }
