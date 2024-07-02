@@ -6,23 +6,16 @@ const Header = () => {
       <div className="moofli">
         Moofli
       </div>
-      <div className="features">
-        Features
-      </div>
-      <div className="community">
-        Community
-      </div>
-      <div className="faqs">
-        FAQs
-      </div>
-      <div className="reviews">
-        Reviews
-      </div>
-      <div className="about_us">
-        About us
-      </div>
-      <div className="contact_us">
-        Contact us
+      <div className='left-section'>
+        <div className="about_us">
+          About us
+        </div>
+        <div className="contact_us">
+          Contact us
+        </div>
+        <div className="get-started">
+          Get started
+        </div>
       </div>
     </nav>
   )
