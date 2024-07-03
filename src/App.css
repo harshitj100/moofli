@@ -321,3 +321,77 @@ body {
     left: 17%;
   } 
 }
+
+@media (max-width: 772px) {
+
+  .moofli{
+    margin-right: 0px;
+  }
+  .about_us,.contact_us,.get-started{
+    font-size: 18px;
+  }
+  .left-section{
+    display: none;
+  }
+  .moofli-about{
+    left: 5%;
+  }
+  .moofli-desc{
+    font-size: 38px;
+    width: 500px;
+  }
+  .why-moofli-container{
+    position: absolute;
+    top: 153%;
+    left: 20%;
+    margin-bottom: 20px;
+    width: 400px;
+  }
+  .why-moofli{
+    font-size: 28px;
+  }
+  .index{
+    font-size: 55px;
+    margin-bottom: 60px;
+    margin-right: 25px;
+    padding-top: 20px;
+  }
+  .text{
+    font-size: 25px;
+    width: 300px;
+  }
+
+  .bookpen-images{
+    top: 70%;
+    left: 20%;
+    transform: scale(1.2);
+  }
+  .bookpen-text{
+    top: 69.5%;
+    left: 17%;
+    transform: scale(1.2);
+  }
+  .star-1{
+    left: 15%;
+    top: 50.4%;
+    transform: scale(1);
+    z-index: -1;
+  }
+  .star-2{
+    left: 72%;
+    top: 120.6%;
+    transform: scale(1);
+    z-index: -1;
+  }
+  .star-3{
+    left: 80%;
+    top: 23.4%;
+    transform: scale(0.5);
+    z-index: -1;
+  }
+  .join-us-container{
+    top: 135%;
+    width: 60%;
+    left: 17%;
+  } 
+}
