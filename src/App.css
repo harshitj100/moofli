@@ -28,7 +28,8 @@ body {
   margin-right: 52px;
   display: inline-block;
   line-height: 48.76px;
-  width: 131px;
+  width: 100%;
+  max-width: 131px;
   font-size: 40px;
   font-weight: bold;
   font-family: 'Montserrat', sans-serif;
@@ -324,14 +325,18 @@ body {
 
 @media (max-width: 772px) {
 
+  .navbar{
+    width: 500px;
+    max-width: 700px;
+  }
   .moofli{
-    margin-right: 0px;
+    font-size: 30px;
+    margin-right: 10px;
+    width: 80px;
   }
   .about_us,.contact_us,.get-started{
-    font-size: 18px;
-  }
-  .left-section{
-    display: none;
+    font-size: 15px;
+    margin-right: 20px;
   }
   .moofli-about{
     left: 5%;
@@ -339,6 +344,9 @@ body {
   .moofli-desc{
     font-size: 38px;
     width: 500px;
+  }
+  .join-moofli-statement{
+    width: 60%;
   }
   .why-moofli-container{
     position: absolute;
