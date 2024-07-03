@@ -22,7 +22,7 @@ function App() {
           <WhyMoofli/>
           <Reviews />
         </div>     
-        <Link to="https://youtube.com">
+        <Link to="https://forms.gle/J2mwFxtuk79xtq7a8">
           <JoinUs />
         </Link>
       </div>
